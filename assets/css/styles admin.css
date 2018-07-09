@@ -1,0 +1,33 @@
+
+}
+ul{
+  padding: 0;
+  margin-left: -40px;
+}
+ul li{
+  list-style: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5); 
+}
+ul li a{
+  text-decoration: none;
+  color: #aeb2b7;
+  display: block;
+  padding: 19px 0px 18px 25px;
+  transition: all 200ms ease-in;
+}
+ul li a:hover{
+  text-decoration: none;
+  color: #1abc9c;
+}
+ul li a:visited{
+  text-decoration: none;
+  color: #fff;
+}
+li li a span{
+  display: inline-block;
+}
+ul ul{
+  display: none;
+  margin:0px;
+}
+

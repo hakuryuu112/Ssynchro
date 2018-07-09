@@ -1,0 +1,82 @@
+.container{
+  margin-top:0px;
+}
+.jumbotron {
+  margin-bottom: 100px;
+  text-align: center;
+  font-family: ariel;
+  font-weight: bold; 
+}
+
+.row{
+  padding:40px 40px;
+}
+
+a.btn.btn-primary.active.btn-block.btn-lg{
+  margin-top:2px;
+  margin-bottom:20px;
+}
+
+a.btn.btn-info.active.btn-block.btn-lg{
+  margin-top:2px;
+  margin-bottom:20px;
+}
+
+
+}
+
+img{
+  margin-left:auto;
+  margin-right:auto;
+}
+h1 {
+	color: black, bold;
+}
+
+h2 {
+	font-family: arial;
+	font-weight: bold;
+}
+
+h5 {
+	font-family: arial;
+   font-style: italic;
+   font-weight: bold;	
+}
+.tittle-head p {
+	font-family: arial;
+  font-style: italic;
+}
+
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 200px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+.form button {
+  text-transform: uppercase;
+  background: black;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  margin-top:2px;
+  margin-bottom:20px;
+}
